@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 a = "satyam's house "
 b = '"Satyam"'
 c = "'Satyam'"
